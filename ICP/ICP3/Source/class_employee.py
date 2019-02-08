@@ -20,7 +20,7 @@ class Employee:
         totalsalary = 0
         for salary in salaries:
             totalsalary = totalsalary + salary
-        print("Average Salary = ", totalsalary/length)
+        return totalsalary/length
 
 
 #Full time Employee class
@@ -35,7 +35,6 @@ Employee1 = Employee("sri", "Vidya", 100000,"BigData")
 
 Employee2 = Employee("Bill", "Games", 2000986,"Java")
 Employee3 = FulltimeEmployee("Mark", "Thames", 2000236,"Python")
-Employee3.avg
 Employee4 = FulltimeEmployee("Hiliary", "Jain", 590836,"C")
 Employee5 = Employee("Kate", "chefs", 1734799,"Mainframe")
 print(Employee1.name)
@@ -46,3 +45,4 @@ print(Employee5.name)
 
 # Access data member using FulltimeEmployee class
 print("Number of Employees: ", FulltimeEmployee.countEmployees)
+print("avgsalary: ", Employee1.avgsalary(Employee1.salaries))
