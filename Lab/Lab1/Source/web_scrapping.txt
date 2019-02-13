@@ -1,0 +1,102 @@
+State: Alabama-AL
+Capitals: Montgomery
+,Birmingham
+State: Alaska-AK
+Capitals: Juneau
+,Anchorage
+State: Arizona-AZ
+Capitals: Phoenix
+State: Arkansas-AR
+Capitals: Little Rock
+State: California-CA
+Capitals: Sacramento
+State: Colorado-CO
+Capitals: Denver
+State: Connecticut-CT
+Capitals: Hartford
+State: Delaware-DE
+Capitals: Dover
+State: Florida-FL
+Capitals: Tallahassee
+State: Georgia-GA
+Capitals: Atlanta
+State: Hawaii-HI
+Capitals: Honolulu
+State: Idaho-ID
+Capitals: Boise
+State: Illinois-IL
+Capitals: Springfield
+State: Indiana-IN
+Capitals: Indianapolis
+State: Iowa-IA
+Capitals: Des Moines
+State: Kansas-KS
+Capitals: Topeka
+State: Kentucky-KY
+Capitals: Frankfort
+State: Louisiana-LA
+Capitals: Baton Rouge
+State: Maine-ME
+Capitals: Augusta
+State: Maryland-MD
+Capitals: Annapolis
+State: Massachusetts-MA
+Capitals: Boston
+State: Michigan-MI
+Capitals: Lansing
+State: Minnesota-MN
+Capitals: St. Paul
+State: Mississippi-MS
+Capitals: Jackson
+State: Missouri-MO
+Capitals: Jefferson City
+State: Montana-MT
+Capitals: Helena
+State: Nebraska-NE
+Capitals: Lincoln
+State: Nevada-NV
+Capitals: Carson City
+State: New Hampshire-NH
+Capitals: Concord
+State: New Jersey-NJ
+Capitals: Trenton
+State: New Mexico-NM
+Capitals: Santa Fe
+State: New York-NY
+Capitals: Albany
+State: North Carolina-NC
+Capitals: Raleigh
+State: North Dakota-ND
+Capitals: Bismarck
+State: Ohio-OH
+Capitals: Columbus
+State: Oklahoma-OK
+Capitals: Oklahoma City
+State: Oregon-OR
+Capitals: Salem
+State: Pennsylvania-PA
+Capitals: Harrisburg
+State: Rhode Island-RI
+Capitals: Providence
+State: South Carolina-SC
+Capitals: Columbia
+State: South Dakota-SD
+Capitals: Pierre
+State: Tennessee-TN
+Capitals: Nashville
+State: Texas-TX
+Capitals: Austin
+State: Utah-UT
+Capitals: Salt Lake City
+State: Vermont-VT
+Capitals: Montpelier
+State: Virginia-VA
+Capitals: Richmond
+State: Washington-WA
+Capitals: Olympia
+State: West Virginia-WV
+Capitals: Charleston
+State: Wisconsin-WI
+Capitals: Madison
+State: Wyoming-WY
+Capitals: Cheyenne
